@@ -1,0 +1,19 @@
+spring:
+  mail:
+    host: smtp.office365.com
+    username: andra.mertilos@intys.eu
+    password: ENC(k+Lnougz+lr1cqhJoXEInayfggF+NqUsvGAWw4WHZuQ=)
+    port: 587
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+jasypt:
+  encryptor:
+    algorithm: PBEWithMD5AndDES
+    iv-generator-classname: org.jasypt.iv.NoIvGenerator
+    password: fisken 
+
+
