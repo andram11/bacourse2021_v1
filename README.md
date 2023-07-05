@@ -1,5 +1,5 @@
 # Business Analysis Online Course App
-A webapp for managing ùy Business Analysis Online Course:
+A webapp for managing my Business Analysis Online Course:
 - backend : Java
 - CMS: Sanity Studio
 - Storage: AWS S3
